@@ -13,7 +13,7 @@
   "author": "Vladimir Reyagin <skorabeyf@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.2.0",
+    "chalk": "^4.1.2",
     "yargs": "^17.7.2"
   }
 }
